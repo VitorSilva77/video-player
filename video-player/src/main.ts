@@ -4,7 +4,7 @@ import { LiveStream } from './LiveStream';
 import { Playlist } from './Playlist';
 import { Player } from './Player';
 
-console.log('=== PLAYER DE VÍDEO - DEMONSTRAÇÃO DOS 4 PILARES DE OO ===\n');
+console.log('=== PLAYER DE VÍDEO - DEMONSTRAÇÃO DOS 4 PILARES DE POO ===\n');
 
 
 console.log('1. Criando diferentes tipos de vídeos:');

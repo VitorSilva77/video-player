@@ -5,7 +5,7 @@ const AdVideo_1 = require("./AdVideo");
 const LiveStream_1 = require("./LiveStream");
 const Playlist_1 = require("./Playlist");
 const Player_1 = require("./Player");
-console.log('=== PLAYER DE VÍDEO - DEMONSTRAÇÃO DOS 4 PILARES DE OO ===\n');
+console.log('=== PLAYER DE VÍDEO - DEMONSTRAÇÃO DOS 4 PILARES DE POO ===\n');
 // 1. CRIANDO VÍDEOS 
 console.log('1. Criando diferentes tipos de vídeos:');
 const video1 = new Video_1.Video('v1', 'Tutorial TypeScript', 300);
