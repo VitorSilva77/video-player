@@ -79,3 +79,7 @@ getInfo(): string {
 }
 ```
 **Como:** Mesmo método, comportamentos diferentes dependendo do tipo de objeto.
+
+### Autores
+
+Vitor Hnerique da Silva - 24000995 ; Murilo Montoro Marqui - 24000317
