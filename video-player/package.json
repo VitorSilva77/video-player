@@ -1,0 +1,18 @@
+{
+  "name": "video-player-simple",
+  "version": "1.0.0",
+  "description": "Player de Vídeo com Playlist - TypeScript + POO",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "tsc && node dist/main.js"
+  },
+  "keywords": ["typescript", "oop", "video-player"],
+  "author": "Estudante",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2"
+  }
+}
