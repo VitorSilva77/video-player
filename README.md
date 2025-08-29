@@ -82,4 +82,4 @@ getInfo(): string {
 
 ### Autores
 
-Vitor Hnerique da Silva - 24000995 ; Murilo Montoro Marqui - 24000317
+Vitor Henrique da Silva - 24000995 ; Murilo Montoro Marqui - 24000317
